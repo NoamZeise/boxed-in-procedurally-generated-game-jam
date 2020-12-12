@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/bullet.png</File>
+    <File>C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/path.png</File>
+    <File>C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/unit.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

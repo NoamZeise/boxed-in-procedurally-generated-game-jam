@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.5" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="40" tileheight="40" infinite="0" nextlayerid="8" nextobjectid="45">
+ <objectgroup id="2" name="obstacles"/>
+ <objectgroup id="7" name="repel"/>
+ <objectgroup id="6" name="quad"/>
+ <objectgroup id="5" name="mover"/>
+ <objectgroup id="3" name="projectile"/>
+ <objectgroup id="4" name="follow"/>
+</map>

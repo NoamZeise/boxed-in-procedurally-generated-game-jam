@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.5" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="40" tileheight="40" infinite="0" nextlayerid="6" nextobjectid="35">
+ <objectgroup id="2" name="obstacles">
+  <object id="22" x="95.7734" y="45.1918" width="168.329" height="24.047"/>
+  <object id="23" x="97.8463" y="287.735" width="168.329" height="24.047"/>
+  <object id="24" x="138.477" y="169.158" width="81.6769" height="24.047"/>
+  <object id="25" x="167.914" y="144.282" width="23.6325" height="75.8724"/>
+  <object id="26" x="-11.6089" y="222.642" width="37.729" height="139.307"/>
+  <object id="27" x="337.487" y="0.414597" width="25.7055" height="135.161"/>
+  <object id="28" x="58.0444" y="116.504" width="29.8515" height="65.17"/>
+ </objectgroup>
+ <objectgroup id="5" name="mover">
+  <object id="30" x="162.524" y="90.7981">
+   <point/>
+  </object>
+  <object id="34" x="281.93" y="298.514">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="projectile">
+  <object id="31" x="160.451" y="240.47">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="follow"/>
+</map>

@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/bullet.png","C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/bin/DesktopGL/Content/bullet.xnb","TextureProcessor","Texture2DContent",244,1241,0.1286566
+"C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/path.png","C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/bin/DesktopGL/Content/path.xnb","TextureProcessor","Texture2DContent",168,6485,0.1296716
+"C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/unit.png","C:/Users/noam4/source/repos/PROCJAM 2020/PROCJAM 2020/Content/bin/DesktopGL/Content/unit.xnb","TextureProcessor","Texture2DContent",178,6485,0.1246905
